@@ -1,8 +1,3 @@
-# Cyber Security Class Notes  
-**Date:** 22 July 2025
-
----
-
 ## Antivirus  
 - Antivirus software quarantines malware.  
 - "Quarantine" means isolating the infected file so it cannot spread or damage the system.
